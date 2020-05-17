@@ -1,0 +1,8 @@
+{
+  "sqlDatabase":"server database name",
+  "token":"your discord bot token here",
+  "channelId":"channel for mods",
+  "cassinoChannel":"channel for cassino",
+  "cassinoAdmChannel":"channel for cassino adms",
+  "channelIdWhitelist":"channel for whitelist"
+}

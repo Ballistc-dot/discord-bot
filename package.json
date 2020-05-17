@@ -1,0 +1,23 @@
+{
+  "name": "PvP_Bot",
+  "version": "1.0.0",
+  "description": "bot for discord",
+  "main": "index.js",
+  "author": "Pedro Vitor Rocha Lemos",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0",
+    "eslint": "^6.8.0",
+    "knex": "^0.21.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.3",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "sqlite3": "^4.2.0"
+  }
+}
