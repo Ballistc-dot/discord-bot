@@ -11,13 +11,13 @@
     "dev": "nodemon src/index.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
-    "discord.js": "^12.2.0",
-    "eslint": "^6.8.0",
-    "knex": "^0.21.1",
+    "axios": "^0.21.4",
+    "discord.js": "^13.1.0",
+    "eslint": "^7.32.0",
+    "knex": "^0.95.11",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.3",
     "selenium-webdriver": "^4.0.0-alpha.7",
-    "sqlite3": "^4.2.0"
+    "sqlite3": "^5.0.2"
   }
 }
